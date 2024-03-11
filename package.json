@@ -27,6 +27,7 @@
     "webpack-glsl-loader": "^1.0.1"
   },
   "dependencies": {
+    "lil-gui": "^0.19.2",
     "three": "^0.137.5"
   }
 }
